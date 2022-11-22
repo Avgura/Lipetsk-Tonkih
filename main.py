@@ -1,2 +1,0 @@
-print("aboba")
-print("bebra")
